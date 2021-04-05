@@ -1,4 +1,6 @@
-// @author David Omrai
+/**
+ * @author David Omrai
+ */
 
 #include <iostream>     
 #include <map>          //map
