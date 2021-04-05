@@ -1,3 +1,5 @@
+// @author David Omrai
+
 #include <iostream>     
 #include <map>          //map
 #include <string>       //string
